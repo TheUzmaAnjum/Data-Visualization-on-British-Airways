@@ -1,4 +1,3 @@
 # Data-Visualization-project on British Airways
-This data visualization project aims to analyze and present customer feedback on British Airways through an interactive Tableau dashboard. 
-The dataset includes various metrics such as average rating, cabin staff service, ground service, food and beverages, seat comfort, and value for money. 
-The objective is to provide a comprehensive view of customer satisfaction and identify areas for improvement.
+
+Data visualization for British Airways involves the graphical representation of various metrics to provide insights into the airline's performance, operations, and customer satisfaction. Key metrics include passenger numbers, flight punctuality, revenue, and cabin staff service. Visualizations such as line charts can depict trends in passenger traffic over time, while bar charts can compare revenue across different regions or flight routes. Heat maps might be used to show customer satisfaction levels across various service aspects. These visual tools enable stakeholders to quickly grasp complex data, identify patterns, and make informed decisions to enhance operational efficiency and customer experience.
